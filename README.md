@@ -1,5 +1,7 @@
-# PowerUpHacks
+# Foreign Interviewees
 Part of PowerUpHacks Hackathon
+
+Foreign Interviewees is purposed to help you gain every job opportunity possible. Our innovation will work past the bounds of language & will translate & speak for you in real-time, in your own voice!
 
 ## Inspiration
 With the interview season coming soon, everyone is boosting the resume, doing projects, practicing possible problems, and much more. In this chaos of things, adding another burden to be able to perfectly speak the interviewer's language is extremely daunting. 
