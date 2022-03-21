@@ -1,5 +1,6 @@
 # Foreign Interviewees
 Part of PowerUpHacks Hackathon
+https://devpost.com/software/foreign-interviewees/joins/e3_m0clrCW5GbhfAKGQdXQ
 
 Foreign Interviewees is purposed to help you gain every job opportunity possible. Our innovation will work past the bounds of language & will translate & speak for you in real-time, in your own voice!
 
@@ -20,6 +21,8 @@ _Speech to Text_
 _Language Translator_
 
 _Text to Speech through Voice Cloning_
+
+https://youtu.be/BCIKo0d5z5s
 
 ## Challenges we ran into
 * Speech to Text coding
