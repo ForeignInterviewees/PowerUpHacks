@@ -28,6 +28,9 @@ _Text to Speech through Voice Cloning_
 * Speech to Text coding
 
 
+
+<video src='https://youtu.be/BCIKo0d5z5s' width=180/>
+
 ## Accomplishments that we're proud of
 * Getting the translator to actually work
 * Getting real-time audio recording and converting to different language on the spot
