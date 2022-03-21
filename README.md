@@ -44,3 +44,5 @@ Combination of Natural Language Processing & the opportunities and challenges it
 Our next step is integrating our project with Google Meet, Zoom, and other meeting applications as an extension. 
 
 We will also take steps in making our tool sound more like the user: precising our deep learning framework in our implementation of the real-time Text-To-Speech Synthesis. We may try altering our Tacotron architecture or add more layers as to make our synthesized voice sound clearer and more like the individual.
+
+<video src='https://youtu.be/BCIKo0d5z5s' width=180/>
