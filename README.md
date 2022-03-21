@@ -1,6 +1,5 @@
 # Foreign Interviewees
 Part of PowerUpHacks Hackathon
-https://devpost.com/software/foreign-interviewees/joins/e3_m0clrCW5GbhfAKGQdXQ
 
 Foreign Interviewees is purposed to help you gain every job opportunity possible. Our innovation will work past the bounds of language & will translate & speak for you in real-time, in your own voice!
 
@@ -17,28 +16,30 @@ Using real-time translations and deepfakes ML, our innovation allows you to comf
 
 ## How we built it
 _Speech to Text_
+_Text to Speech_
+_Translation_
 
 _Language Translator_
 
 _Text to Speech through Voice Cloning_
 
-https://youtu.be/BCIKo0d5z5s
+https://github.com/ForeignInterviewees/PowerUpHacks
 
 ## Challenges we ran into
+* How to start
 * Speech to Text coding
-* Time Constraints
-* Lack of Sleep :D
 
 
 ## Accomplishments that we're proud of
 * Getting the translator to actually work
 * Getting real-time audio recording and converting to different language on the spot
 * This entire project is an accomplishment that we are both proud of
+* The fact that everything works 
 
 ## What we learned
-We definitely learned how to manage our time better (no more pulling an all-nighter mere hours before submission deadline :D)
+Combination of Natural Language Processing & the opportunities and challenges it holds, as well as machine learning frameworks, networks, and techniques, including integrating APIs into our program.
 
 ## What's next for Foreign Interviewees
 Our next step is integrating our project with Google Meet, Zoom, and other meeting applications as an extension. 
 
-We will also take steps in making our tool sound more like the user: precising our deep learning framework in our implementation of the real time Text-To-Speech Synthesis. We may try altering our Tacotron architecture or add more layers as to making our synthesized voice sound clearer and more like the individual.
+We will also take steps in making our tool sound more like the user: precising our deep learning framework in our implementation of the real-time Text-To-Speech Synthesis. We may try altering our Tacotron architecture or add more layers as to make our synthesized voice sound clearer and more like the individual.
