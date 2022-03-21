@@ -23,8 +23,6 @@ _Language Translator_
 
 _Text to Speech through Voice Cloning_
 
-https://github.com/ForeignInterviewees/PowerUpHacks
-
 ## Challenges we ran into
 * How to start
 * Speech to Text coding
