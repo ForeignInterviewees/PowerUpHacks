@@ -48,4 +48,4 @@ Our next step is integrating our project with Google Meet, Zoom, and other meeti
 
 We will also take steps in making our tool sound more like the user: precising our deep learning framework in our implementation of the real-time Text-To-Speech Synthesis. We may try altering our Tacotron architecture or add more layers as to make our synthesized voice sound clearer and more like the individual.
 
-<video src='https://youtu.be/BCIKo0d5z5s' width=180/>
+[![VIDEO DEMONSTRATION](http://img.youtube.com/vi/BCIKo0d5z5s/0.jpg)](http://www.youtube.com/watch?v=BCIKo0d5z5s "Foreign Interviewees")
