@@ -4,7 +4,7 @@ Part of PowerUpHacks Hackathon
 Foreign Interviewees is purposed to help you gain every job opportunity possible. Our innovation will work past the bounds of language & will translate & speak for you in real-time, in your own voice!
 
 ## Inspiration
-With the interview season coming soon, everyone is boosting the resume, doing projects, practicing possible problems, and much more. In this chaos of things, adding another burden to be able to perfectly speak the interviewer's language is extremely daunting. 
+With the interview season coming soon, everyone is boosting the resume, doing projects, practicing possible problems, and much more. In this chaos of things, adding another burden to be able to perfectly speak the interviewer's language is extremely daunting.
 
 You may be the most qualified person, but without the confidence to speak about your achievements and respond clearly to the interviewer due to a language barrier, your chances decrease significantly.
 
@@ -15,9 +15,11 @@ Foreign Interviewees is a project purposed to help you, the interviewee, in effo
 Using real-time translations and deepfakes ML, our innovation allows you to comfortably speak in your native tongue while our system translates in real-time to the interviewer's language and speaks to the interviewer in your own voice!
 
 ## How we built it
-_Speech to Text_
-_Text to Speech_
-_Translation_
+_Speech to Text Text to Speech Translation_
+
+_Language Translator_
+
+_Text to Speech through Voice Cloning_
 
 _Language Translator_
 
@@ -26,7 +28,8 @@ _Text to Speech through Voice Cloning_
 ## Challenges we ran into
 * How to start
 * Speech to Text coding
-
+* Time Constraints
+* Lack of Sleep :D
 
 
 <video src='https://youtu.be/BCIKo0d5z5s' width=180/>
